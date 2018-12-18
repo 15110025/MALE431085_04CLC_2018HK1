@@ -8,8 +8,8 @@ import keras # sử dụng thư viện Keras
 
 
 # duong dan toi thu muc chua ảnh
-PATH = 'C:\\date\\hoa\\hd\\'
-PATH2 = 'C:\\date\\hoa\\hong\\'
+PATH = 'C:\\date\\Da\\Benh\\'
+PATH2 = 'C:\\date\\Da\\KhongBenh\\'
 #chuyen doi anh thanh ma tran
 imgw = cv2.imread(PATH + '1.jpg')
 # resize lai kich thuoc ma tran
